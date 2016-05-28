@@ -57,7 +57,7 @@ plugin.tx_yag.settings.themes.magnificPopup {
 
 # Include jQuery Core only when set
 page.includeJSFooterlibs {
-	yag_theme_magnificpopup10 = EXT:yag_theme_magnificpopup/Resources/Public/JavaScript/jquery-1.10.2.min.js
+	yag_theme_magnificpopup10 = EXT:yag_theme_magnificpopup/Resources/Public/JavaScript/jquery-2.2.4.min.js
 	yag_theme_magnificpopup10.forceOnTop = 1
 	yag_theme_magnificpopup10.if.isTrue = {$plugin.tx_yagthememagnificpopup.includejquerycore}
 }
