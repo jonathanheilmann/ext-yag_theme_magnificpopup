@@ -22,11 +22,11 @@ Extension Key: yag\_theme\_magnificpopup
 
 Language: en
 
-Version: 0.1.4
+Version: 0.2.0
 
 Keywords: yag, theme, magnific popup, yag responsive
 
-Copyright 2013-2014, Jonathan Heilmann, <mail@jonathan-heilmann.de>
+Copyright 2013-2016, Jonathan Heilmann, <mail@jonathan-heilmann.de>
 
 This document is published under the Open Content License
 
