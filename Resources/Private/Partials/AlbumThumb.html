@@ -24,6 +24,6 @@
 		{album.itemCount} <f:if condition="{1:album.itemCount} == {1:1}"><f:then><f:translate key="tx_yag_general.image" /></f:then><f:else><f:translate key="tx_yag_general.images" /></f:else></f:if>
 	</div>
 		<div class="tx-yag-gallery-albumdescription">
-		<f:format.nl2br>{album.description}</f:format.nl2br>
+		<f:format.raw><f:format.nl2br>{album.description}</f:format.nl2br></f:format.raw>
 	</div>
 </div>

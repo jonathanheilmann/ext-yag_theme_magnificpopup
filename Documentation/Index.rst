@@ -18,10 +18,10 @@ EXT: YAG Theme Magnific Popup
 =============================
 
 :Created:
-      2010-02-18 17:03:03
+      2010-02-18 17:03
 
 :Changed:
-      2014-04-03 18:14:02
+      2016-05-28 15:49
 
 :Classification:
       yag_theme_magnificpopup

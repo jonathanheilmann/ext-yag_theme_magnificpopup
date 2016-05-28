@@ -29,6 +29,21 @@ ChangeLog
 
 
  - :Version:
+         0.2.0
+
+    :Changes:
+         \* Added compatibility to TYPO3 7.6
+
+         \* Added compatibility to yag >= 4.0.0
+
+         \* Dropped support for TYPO3 4.5
+
+         \* Dropped support for yag < 4.0.0
+
+         \* Updated MagnificPopup and optional jQuery
+
+
+ - :Version:
          0.1.4
 
    :Changes:
